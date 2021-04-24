@@ -10,7 +10,7 @@
 /start (in private, all)
 /help (in private, all) - помощь
 /list (in private, all) - список чатов для просмотра статистики
-/stats ?:([chat_id] [user_id]) (in private, admins) - просмотр личной статистики или статистики пользователя по ID чата и ID пользователя
+/stats ?:([chat_id] [user_id]) (in private, admins) - просмотр личной статистики или статистики пользователя
 /addowner [chat_id] [user_id] (in private, only owner) - добавить пользователя в список админов для отслеживания статистики
 /removeowner [chat_id] [user_id] (in private, only owner) - убрать пользователя из списка админов для отслеживания статистики чатов
 [reply] /id (in supergroup, admins) - узнать ID человека по пересылу
