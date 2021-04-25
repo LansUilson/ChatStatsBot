@@ -1,6 +1,9 @@
 # Chat Statistic Bot
 Бот для отслеживания статистики в различных чатах. 
 
+![start](https://i.imgur.com/0Z4EoSz.png)
+![cmds](https://i.imgur.com/EVHoNDs.png)
+
 ### Основное
 
 Команды бота:
@@ -22,12 +25,26 @@
 
  - Подключение/отключение чата создателю к себе
 
+![bind](https://i.imgur.com/RnKnyvM.png)
+
  - Подключение/отключение чата к другому пользователю создателем
+
+![addowner](https://i.imgur.com/tJtV6x7.png)
+![removeowner](https://i.imgur.com/yHfJS7P.png)
 
  - Смотреть ID пользователей
 
+![id](https://i.imgur.com/XxArX8u.png)
+
  - Система уровней и опыта для отельных участников чата и самого чата, а также личная статистика, разрастающаяся в геометрической прогрессии
 
- - Система просмотра топ 5 пользователей беседы
+![lstats](https://i.imgur.com/lWowoKx.png)
+![cstats](https://i.imgur.com/MblKBlt.png)
+
+ - Система просмотра до топ 5 пользователей беседы
  
+![top](https://i.imgur.com/taG8rxU.png)
+
  - Система просмотра статистики отдельного пользователя
+
+![stats](https://i.imgur.com/sWRSIeK.png)
