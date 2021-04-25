@@ -1,6 +1,6 @@
 # Chat Statistic Bot
 Бот для отслеживания статистики в различных чатах. 
-![text](https://imgur.com/a/T7BaGvh)
+![text](https://i.imgur.com/MblKBlt.png)
 ### Основное
 
 Команды бота:
